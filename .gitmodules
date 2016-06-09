@@ -1,0 +1,9 @@
+[submodule "steamkit-steamlang-gradle"]
+	path = steamkit-steamlang-gradle
+	url = https://github.com/dpeger/steamkit-steamlang-gradle
+[submodule "steamkit-steamlang-steamd"]
+	path = steamkit-steamlang-steamd
+	url = https://github.com/dpeger/steamkit-steamlang-steamd
+[submodule "steamkit-steamlang-codegen"]
+	path = steamkit-steamlang-codegen
+	url = https://github.com/dpeger/steamkit-steamlang-codegen
